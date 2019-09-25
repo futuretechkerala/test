@@ -1,0 +1,11 @@
+localhost
+5432
+openpg
+openpgpwd
+
+futuretechkerala@gmail.com
+newft@home
+
+http://localhost:8069
+
+https://www.openeducat.org
