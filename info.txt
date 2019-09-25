@@ -1,0 +1,53 @@
+gcloud command-line tool overview
+
+https://cloud.google.com/sdk/gcloud/
+
+SDk impleamentaion 
+crate a project and amke that paroject as default app 
+
+go to location on wich app is avialable and then use command 
+"gcloud app deploy"
+
+
+golang programing languages realated to GCN
+
+Cloudflare increde website speeds
+
+
+moodle site
+http://35.187.234.71/
+Admin user	
+user
+A
+dmin password (Temporary)	
+NNjL8x4HdMG
+
+
+
+Mautic is an open marketing software platform that provides you with the greatest level of integration and deep audience intelligence, enabling you to make more meaningful customer connections.
+
+
+Zurmo is an Open Source Coustmer Realation Management application that is Mobile, Social, and Gamified.
+
+
+Elgg is open source social networking software that provides individuals and organizations with the components needed to create an online social environment
+
+
+Odoo is an all-in-one business software including CRM, website/e-commerce, billing, accounting, manufacturing, warehouse - and project management, and inventory. The Community version is the open source version, while the Enterprise version supplements the Community edition with proprietary features and services.
+
+
+
+Mautic
+192.168.1.102
+localhost/mautic
+user:root
+pass:newfthome
+
+http://127.0.0.1:90/installer
+OLD PORT 3306
+
+
+https://www.openeducat.org/
+
+Comprehensive Open Source ERP for Educational Institutes
+Open Source Online Cloud Based Educational Management System for University, College & School
